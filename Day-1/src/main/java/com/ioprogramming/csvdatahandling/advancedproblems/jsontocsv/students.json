@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Amit Sharma",
+    "age": 21,
+    "major": "Computer Science"
+  },
+  {
+    "id": "2",
+    "name": "Priya Singh",
+    "age": 22,
+    "major": "Mathematics"
+  },
+  {
+    "id": "3",
+    "name": "Rahul Verma",
+    "age": 20,
+    "major": "Physics"
+  },
+  {
+    "id": "4",
+    "name": "Sneha Patil",
+    "age": 23,
+    "major": "Biology"
+  },
+  {
+    "id": "5",
+    "name": "Vikram Chatterjee",
+    "age": 21,
+    "major": "Chemistry"
+  },
+  {
+    "id": "6",
+    "name": "Anjali Nair",
+    "age": 22,
+    "major": "English Literature"
+  },
+  {
+    "id": "7",
+    "name": "Ravi Iyer",
+    "age": 20,
+    "major": "Mechanical Engineering"
+  },
+  {
+    "id": "8",
+    "name": "Kavita Mehta",
+    "age": 21,
+    "major": "Economics"
+  },
+  {
+    "id": "9",
+    "name": "Suresh Kumar",
+    "age": 22,
+    "major": "Political Science"
+  },
+  {
+    "id": "10",
+    "name": "Pooja Deshmukh",
+    "age": 23,
+    "major": "History"
+  }
+]
